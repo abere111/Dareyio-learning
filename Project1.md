@@ -23,13 +23,13 @@ This is a  my Project File
   
  - Step 4
   
-  Creating a virtual host for your website using apache.
+  Creating a virtual host for your website using apache
 
   - ![image](https://user-images.githubusercontent.com/94152732/165986549-5cdee13f-9e06-4d3a-8228-f3a245dd3c6e.png)
   
   - Step 5
   
-  -  Enable PHP on the Website
+  -  Enable PHP on the Website.
   
   - ![image](https://user-images.githubusercontent.com/94152732/165988608-631c2574-b0cd-4860-b599-126cd78287e7.png)
 
