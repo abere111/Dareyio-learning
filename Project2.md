@@ -18,7 +18,7 @@ Step 3: Installing PHP
 -  ![image](https://user-images.githubusercontent.com/94152732/166058640-5067fb19-fd29-4ebd-a939-500950b633e9.png)
 
 
-Step 4: Configuring nginx to use php processor
+Step 4: Configuring nginx to use php processor.
 
 _ ![image](https://user-images.githubusercontent.com/94152732/166062768-5b30ded1-2161-465b-b65c-0f2cabb9fc86.png)
 
