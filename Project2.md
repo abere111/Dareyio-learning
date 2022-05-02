@@ -6,7 +6,7 @@ Step 1: Installing the nginx web server
 
   - ![image](https://user-images.githubusercontent.com/94152732/166051074-05bbcfe4-2752-4008-a069-32ca70a65bfb.png)
 
-Step 2: Installing mysql
+Step 2: Installing Mysql
 
   - ![image](https://user-images.githubusercontent.com/94152732/166058320-5be70d56-d9ec-47ba-b27e-77d2ac576d48.png)
 
