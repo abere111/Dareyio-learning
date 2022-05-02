@@ -4,7 +4,7 @@ This is a  my Project File
 -  Spinned up an Instance
   ![image](https://user-images.githubusercontent.com/94152732/165975296-7f82b6e1-6835-4e15-a14f-50b0ca8a01ce.png)
   
- - Step 
+ - Step 1
   
   INSTALLING APACHE AND UPDATING THE FIREWALL
   - Apache is running: ![image](https://user-images.githubusercontent.com/94152732/165977673-a5ddfdd3-fd71-4a27-b703-df019e687f0e.png)
