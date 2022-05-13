@@ -1,4 +1,4 @@
--  Step 1 
+-  STEP 1
 
 
 
@@ -73,7 +73,7 @@
 
 ![image](https://user-images.githubusercontent.com/94152732/168123983-7a260f7f-c25c-434a-be06-92d20aacb44c.png)
 
-- Step 2
+- STEP 2
 
 ![image](https://user-images.githubusercontent.com/94152732/168124482-a3c5b5f9-dae4-4bd1-ba38-d6bdd10d92c8.png)
 
