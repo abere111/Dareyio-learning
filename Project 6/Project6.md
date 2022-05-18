@@ -95,6 +95,7 @@
 
 Step 2:
 
+image.png
 
 
 
