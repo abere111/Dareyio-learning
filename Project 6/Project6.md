@@ -189,18 +189,7 @@ Step 2:
 
 
 
-![image](https://user-images.githubusercontent.com/94152732/169123069-cfcd0fde-07ae-4066-bd6c-82eb33b18a41.png)
-![image](https://user-images.githubusercontent.com/94152732/169126238-42e91af9-fd21-4a7c-a717-70ceb2ea4901.png)
-![image](https://user-images.githubusercontent.com/94152732/169127508-ec0a2204-f940-4dd9-ba72-31cf33c5d07d.png)
 
-- Step 5:
-
-![image](https://user-images.githubusercontent.com/94152732/169135930-3413d5c4-d023-41ad-9871-67c2a642bda6.png)
-![image](https://user-images.githubusercontent.com/94152732/169135968-5ad4777b-161d-41b1-a83b-c75df3f3d98c.png)
-
-- Step 6:
-
-![image](https://user-images.githubusercontent.com/94152732/169137657-637e9477-d416-444a-a648-930fd339cd80.png)
 
 
 
