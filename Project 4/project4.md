@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/94152732/168419920-003bfb8e-4664-41ff-9844-f4f2a72d1969.png)
 ![image](https://user-images.githubusercontent.com/94152732/168419949-84c359c8-9ae5-4df7-b839-63c5faed1c28.png)
 
-- Step 2: 
+- Step 2 
 
 ![image](https://user-images.githubusercontent.com/94152732/168419988-883af02e-826f-442c-a9b0-1489d44664cb.png)
 ![image](https://user-images.githubusercontent.com/94152732/168420016-a7a539ab-090a-438c-99e6-7a8cb029faf4.png)
