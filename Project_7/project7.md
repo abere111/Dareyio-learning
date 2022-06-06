@@ -3,6 +3,8 @@
 - 1: Spin up an EC2 instance
 ![image](https://user-images.githubusercontent.com/94152732/172205536-76f28add-5c78-4494-89a4-f901b99b79b3.png)
 
+- Step 2
+
 - 2: Attached Volume to the instance
 ![image](https://user-images.githubusercontent.com/94152732/172205631-da69a928-0cd5-42e6-ae5d-b6f4b7f1afe4.png)
 
@@ -32,6 +34,9 @@
 - 10: Veriified VG
 ![image](https://user-images.githubusercontent.com/94152732/172210421-d6fcbcee-aa1b-4f48-9095-6d6cb23a645f.png)
 
+
+- Step 3
+
 - 11: Created 3 LVs
 ![image](https://user-images.githubusercontent.com/94152732/172211034-44efc829-7b02-46c4-b95b-debbc962d46f.png)
 
@@ -42,8 +47,34 @@
 ![image](https://user-images.githubusercontent.com/94152732/172211556-4c6574f2-054e-4c77-b2bb-05f2029e4b31.png)
 ![image](https://user-images.githubusercontent.com/94152732/172211654-afa42138-deba-4ba1-af09-85b021555570.png)
 
-- 14: Formattee the LVs using xfs
+- 14: Formatted the LVs using xfs
 ![image](https://user-images.githubusercontent.com/94152732/172212554-73fc2a88-c005-4eaa-b2b4-47b5aff6324d.png)
+
+-15: Created mount points
+![image](https://user-images.githubusercontent.com/94152732/172213124-bc754ae3-e5e5-4546-ae8b-c96035d9c3ea.png)
+
+-16: Mounted the directories to LVs
+![image](https://user-images.githubusercontent.com/94152732/172213977-12c72531-3e64-4f29-8fba-b817d8f22946.png)
+
+- 17: Back up  /var/log into /home/recovery/logs/
+![image](https://user-images.githubusercontent.com/94152732/172214624-b049fed5-2cba-42de-b627-75ea93d18b12.png)
+
+Step 4:
+
+- 18: Install NFS Server
+![image](https://user-images.githubusercontent.com/94152732/172218401-3d057619-3845-4b12-9e87-cf37e485110d.png)
+![image](https://user-images.githubusercontent.com/94152732/172218577-a675597e-a07f-4b80-9221-2ac89437dc6b.png)
+![image](https://user-images.githubusercontent.com/94152732/172218940-4d49e6b7-9255-4fd3-bf4f-771d783d370d.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
