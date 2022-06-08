@@ -59,12 +59,23 @@
 - 17: Back up  /var/log into /home/recovery/logs/
 ![image](https://user-images.githubusercontent.com/94152732/172214624-b049fed5-2cba-42de-b627-75ea93d18b12.png)
 
+- 18: Update Fstab
+![image](https://user-images.githubusercontent.com/94152732/172667755-5eb3b72d-0b3c-451f-ba2f-211600057398.png)
+![image](https://user-images.githubusercontent.com/94152732/172670162-3e1cc24c-2f25-4113-ac58-22daa74ee091.png)
+
+- 19: Test Configuration and Reload daemon
+![image](https://user-images.githubusercontent.com/94152732/172670255-5e4de1c2-958e-4dca-b7d4-2799520d6fa7.png)
+![image](https://user-images.githubusercontent.com/94152732/172670609-24b74e6d-a3de-4418-aa55-343c6fcfb7ed.png)
+![image](https://user-images.githubusercontent.com/94152732/172670780-d33c991d-8a65-47b2-9ee3-518ae2e39626.png)
+
+
 Step 4:
 
-- 18: Install NFS Server
+- 20: Install NFS Server
 ![image](https://user-images.githubusercontent.com/94152732/172218401-3d057619-3845-4b12-9e87-cf37e485110d.png)
 ![image](https://user-images.githubusercontent.com/94152732/172218577-a675597e-a07f-4b80-9221-2ac89437dc6b.png)
 ![image](https://user-images.githubusercontent.com/94152732/172218940-4d49e6b7-9255-4fd3-bf4f-771d783d370d.png)
+
 
 
 
