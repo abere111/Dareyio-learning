@@ -76,6 +76,52 @@ Step 4:
 ![image](https://user-images.githubusercontent.com/94152732/172218577-a675597e-a07f-4b80-9221-2ac89437dc6b.png)
 ![image](https://user-images.githubusercontent.com/94152732/172218940-4d49e6b7-9255-4fd3-bf4f-771d783d370d.png)
 
+Step 5: 
+
+- 21: Subnet CIDR
+![image](https://user-images.githubusercontent.com/94152732/174421359-794d4938-b1f9-4a6e-852b-47248d26b0d6.png)
+![image](https://user-images.githubusercontent.com/94152732/174421534-94262ebd-bd29-4821-b530-18d85466fcfe.png)
+
+- 22: Configure Access to NFS
+![image](https://user-images.githubusercontent.com/94152732/174421782-2fcf8db6-32e8-4cd8-97b4-e1f83c4a1879.png)
+![image](https://user-images.githubusercontent.com/94152732/174421807-595bbe0f-1d62-4b92-a9dc-ad3ecc34b676.png)
+
+Step 6:
+
+- 23: Check which port is used by NFS and open it using Security Groups (add new Inbound Rule) 
+![image](https://user-images.githubusercontent.com/94152732/174421902-4ce44295-2500-4bf1-a085-fc6b87fab8b7.png)
+![image](https://user-images.githubusercontent.com/94152732/174422097-cb7e8ec2-f1a0-4662-a2b2-b2d6c66ed64b.png)
+![image](https://user-images.githubusercontent.com/94152732/174422107-ef6d33e7-f51c-4ca0-a255-35c5ac337ec5.png)
+
+
+- LAUCH A DATABSE SERVER
+
+![image](https://user-images.githubusercontent.com/94152732/174422554-0509fa6b-9639-4441-b50a-6c54da0fe1db.png)
+![image](https://user-images.githubusercontent.com/94152732/174422700-d15840f3-59e1-42c8-902f-f0c354bee65e.png)
+![image](https://user-images.githubusercontent.com/94152732/174422822-065d5d21-2629-4a68-8a6e-3a4bd9cee06f.png)
+![image](https://user-images.githubusercontent.com/94152732/174422888-02b158eb-35d2-4cfd-b9e9-1658ffd3b05d.png)
+![image](https://user-images.githubusercontent.com/94152732/174422902-89029e37-0a50-49d4-bfa1-92b5100f3c2f.png)
+![image](https://user-images.githubusercontent.com/94152732/174423132-3762f677-95bb-48a1-9f82-3d1283e3774e.png)
+
+- 1. ![image](https://user-images.githubusercontent.com/94152732/174423485-6e7d8703-d82c-4540-ae29-dd19ab5edf27.png)
+- 2. ![image](https://user-images.githubusercontent.com/94152732/174423588-05b5fd0d-d806-4665-887c-c9875fad0780.png)
+- 3. ![image](https://user-images.githubusercontent.com/94152732/174423638-438e9486-01fd-4e96-96a9-ad3ce6a66eec.png)
+- 4. ![image](https://user-images.githubusercontent.com/94152732/174423721-df41a2b3-bce0-4a55-a122-e7ac2523749a.png)
+- 5. ![image](https://user-images.githubusercontent.com/94152732/174423766-8ae80f6a-eb24-4ce3-90ab-a65686b23d40.png)
+
+- On WebServer 1
+![image](https://user-images.githubusercontent.com/94152732/174423785-bbad941f-84a8-4552-890b-12fe3dfcd406.png)
+![image](https://user-images.githubusercontent.com/94152732/174423824-c50de524-9cba-4bcc-9742-71309e90ffb8.png)
+![image](https://user-images.githubusercontent.com/94152732/174423851-d3298846-c1a7-4196-b6cd-bc47e0a8af02.png)
+![image](https://user-images.githubusercontent.com/94152732/174423891-7c971110-30cc-4abb-bb0c-260fe6b58bb7.png)
+![image](https://user-images.githubusercontent.com/94152732/174423960-dc1a7973-652d-4353-9c13-22ab3342b421.png)
+![image](https://user-images.githubusercontent.com/94152732/174424012-db2d2da8-070e-4e81-b699-6f349b7309de.png)
+
+
+- On WebServer 2
+
+
+
 
 
 
