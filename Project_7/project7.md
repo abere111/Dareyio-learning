@@ -116,6 +116,16 @@ Step 6:
 ![image](https://user-images.githubusercontent.com/94152732/174423891-7c971110-30cc-4abb-bb0c-260fe6b58bb7.png)
 ![image](https://user-images.githubusercontent.com/94152732/174423960-dc1a7973-652d-4353-9c13-22ab3342b421.png)
 ![image](https://user-images.githubusercontent.com/94152732/174424012-db2d2da8-070e-4e81-b699-6f349b7309de.png)
+![image](https://user-images.githubusercontent.com/94152732/174425128-56b03d23-08e2-4e3f-b3d9-8b2fa795ee27.png)
+![image](https://user-images.githubusercontent.com/94152732/174425155-8e433b67-c0d9-4072-b9c3-99aad97b64d8.png)
+![image](https://user-images.githubusercontent.com/94152732/174425719-8c4e8ba4-603d-446b-8a5b-aa4e1d9fb8ea.png)
+![image](https://user-images.githubusercontent.com/94152732/174425788-82b15e76-763b-439d-97eb-e6313bdec31b.png)
+![image](https://user-images.githubusercontent.com/94152732/174425997-0e34ce56-57f2-47d7-a359-ad8b602e4962.png)
+![image](https://user-images.githubusercontent.com/94152732/174426080-a93d16b5-bf50-42c5-a78b-e13334052f20.png)
+![image](https://user-images.githubusercontent.com/94152732/174426397-6d9a20cf-dcb4-472f-b01c-76919c2a872f.png)
+![image](https://user-images.githubusercontent.com/94152732/174426521-760dd614-aa6e-498e-b6e7-a530592db30a.png)
+![image](https://user-images.githubusercontent.com/94152732/174427633-074057e7-2c2d-4d73-bab2-d2cc9823f78f.png)
+
 
 
 - On WebServer 2
