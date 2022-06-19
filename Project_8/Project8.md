@@ -1,4 +1,4 @@
-- 1: Ubuntu Server
+- 1: Ubuntu Server Created
 
 - ![image](https://user-images.githubusercontent.com/94152732/174498124-f566cc4c-d151-4171-ad9c-28b3a8e593da.png)
 
