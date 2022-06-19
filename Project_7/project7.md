@@ -146,6 +146,14 @@ Step 6:
 ![image](https://user-images.githubusercontent.com/94152732/174494890-c429e0d8-6984-483c-969b-e20603ec3b74.png)
 ![image](https://user-images.githubusercontent.com/94152732/174495008-28a9d136-e8b1-4427-90c5-2c835c6e0219.png)
 ![image](https://user-images.githubusercontent.com/94152732/174495020-0899fe73-07d3-4afb-8b67-c9e0c2531f42.png)
+![image](https://user-images.githubusercontent.com/94152732/174495243-79c08647-66f6-46da-b7ac-42f11ce8d83b.png)
+![image](https://user-images.githubusercontent.com/94152732/174495307-677b5c9a-6efc-4fe7-9c3c-03db875681df.png)
+![image](https://user-images.githubusercontent.com/94152732/174495423-99333419-51af-45b1-9aff-9083439f9106.png)
+![image](https://user-images.githubusercontent.com/94152732/174495533-e4da6350-1bb9-4565-96d6-56cc7df75a9e.png)
+![image](https://user-images.githubusercontent.com/94152732/174495799-4d0391e1-235e-44be-bd1a-2406e72551fb.png)
+![image](https://user-images.githubusercontent.com/94152732/174495883-566ef4a6-f460-4ae2-9fec-2bfbbee22d72.png)
+![image](https://user-images.githubusercontent.com/94152732/174496337-e6bb0b35-b861-4e90-a17e-cdb480151241.png)
+
 
 
 
