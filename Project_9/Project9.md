@@ -20,9 +20,14 @@
 
 - Step 2: Configure Jenkins to retrieve source codes from GitHub using Webhooks
 
--1: Enable webhooks in your GitHub repository settings
+- 1: Enable webhooks in your GitHub repository settings
 ![image](https://user-images.githubusercontent.com/94152732/174502672-66775aab-cc10-42cb-8dc3-a301f3fd0e79.png)
 ![image](https://user-images.githubusercontent.com/94152732/174502816-8e49b672-a300-490f-8b97-336046e9401e.png)
 
--2 Created Free Style Project
+- 2 Created Free Style Project
 ![image](https://user-images.githubusercontent.com/94152732/174502875-020b57cb-20f4-4299-8749-b7b80001354f.png)
+![image](https://user-images.githubusercontent.com/94152732/175785570-be21e59e-2098-4e02-a40a-9a0ff5280206.png)
+
+- 3: Click "Configure" your job/project and add these two configurations
+![image](https://user-images.githubusercontent.com/94152732/175785674-1630d7ae-b79b-4684-bd05-d7c4a6a64486.png)
+![image](https://user-images.githubusercontent.com/94152732/175785807-e8f44977-52ad-42aa-8bad-ce43cd3049d1.png)
