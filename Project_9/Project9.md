@@ -31,3 +31,5 @@
 - 3: Click "Configure" your job/project and add these two configurations
 ![image](https://user-images.githubusercontent.com/94152732/175785674-1630d7ae-b79b-4684-bd05-d7c4a6a64486.png)
 ![image](https://user-images.githubusercontent.com/94152732/175785807-e8f44977-52ad-42aa-8bad-ce43cd3049d1.png)
+![image](https://user-images.githubusercontent.com/94152732/175789397-04ec5dc9-b874-4ca3-9e2d-57a95244a07f.png)
+![image](https://user-images.githubusercontent.com/94152732/175789484-489baad1-8d46-4fc3-8763-06c635fcf4ef.png)
