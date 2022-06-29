@@ -56,6 +56,15 @@
 
 Step 4: Set up an Ansible Inventory
 
+![image](https://user-images.githubusercontent.com/94152732/176530007-45623e3e-e16f-46b3-a123-24c3260d9f27.png)
+![image](https://user-images.githubusercontent.com/94152732/176531714-92d00092-d8bf-4423-bd84-f18aa38bd02d.png)
+![image](https://user-images.githubusercontent.com/94152732/176533516-8d5680d6-02d3-4807-b4a8-e9d059643c7f.png)
+![image](https://user-images.githubusercontent.com/94152732/176535085-eb355d81-47b8-4fdd-9fae-b462074e08f9.png)
+
+
+- Step 5: 
+![image](https://user-images.githubusercontent.com/94152732/176536508-aa23e75f-b91c-44b0-97a9-3bae6df4f50a.png)
+
 
 
 
