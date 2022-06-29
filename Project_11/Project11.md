@@ -1,4 +1,4 @@
--  INSTALL AND CONFIGURE ANSIBLE ON EC2 INSTANCE
+-Step 1:   INSTALL AND CONFIGURE ANSIBLE ON EC2 INSTANCE
 
 
 - 1:  Update Name tag on your Jenkins EC2 Instance to Jenkins-Ansible
@@ -18,3 +18,44 @@
 ![image](https://user-images.githubusercontent.com/94152732/176494218-c2012c01-ba91-4b1d-bb10-c89ef6033359.png)
 ![image](https://user-images.githubusercontent.com/94152732/176494961-232f05ab-dccd-45d5-b7fa-ea7c3311a1ba.png)
 ![image](https://user-images.githubusercontent.com/94152732/176496142-39b1deb2-5f47-4442-8507-366860ffd76f.png)
+![image](https://user-images.githubusercontent.com/94152732/176509505-895ea985-0959-4473-99a0-cfa69659e913.png)
+
+- 5: Test your setup by making some change in README.MD file in master branch and make sure that builds starts automatically and Jenkins saves the files (build artifacts) in following folder
+
+![image](https://user-images.githubusercontent.com/94152732/176509894-0c97c569-e928-45dd-94d7-d8e83efee348.png)
+![image](https://user-images.githubusercontent.com/94152732/176510888-9ebe8699-af6f-4107-8b54-f0be91fbc2da.png)
+
+
+- Step 2: Prepare your development environment using Visual Studio Code
+
+![image](https://user-images.githubusercontent.com/94152732/176511447-438d00a4-6720-4131-9e0f-3f43728d5fa8.png)
+
+- BEGIN ANSIBLE DEVELOPMENT
+
+-1: In your ansible-config-mgt GitHub repository, create a new branch that will be used for development of a new feature.
+
+![image](https://user-images.githubusercontent.com/94152732/176514537-1a381aa3-569d-4b3d-8ca4-5e786c9f3f19.png)
+
+- 2: Checkout the newly created feature branch to your local machine and start building your code and directory structure
+![image](https://user-images.githubusercontent.com/94152732/176517944-bf10b4a8-b76b-4446-bbb2-bd6747367f2e.png)
+
+
+- 3: Create a directory and name it playbooks – it will be used to store all your playbook files.
+![image](https://user-images.githubusercontent.com/94152732/176518279-8b355c1a-f1d3-43b7-ab84-6ce1ceeea281.png)
+
+
+- 4: Create a directory and name it inventory – it will be used to store all your playbook files.
+![image](https://user-images.githubusercontent.com/94152732/176518311-11a6c5a9-d520-450d-b5cc-5987a84734f4.png)
+
+- 5: Within the playbooks folder, create your first playbook, and name it common.yml
+![image](https://user-images.githubusercontent.com/94152732/176518594-16623ae5-0ba5-4edb-b595-7a91f2990cda.png)
+
+- 6: Within the inventory folder, create an inventory file (.yml) for each environment (Development, Staging Testing and Production) dev, staging, uat, and prod respectively.
+
+![image](https://user-images.githubusercontent.com/94152732/176519014-995d7a04-3aad-4a64-988b-647fa1c0c7d5.png)
+
+Step 4: Set up an Ansible Inventory
+
+
+
+
