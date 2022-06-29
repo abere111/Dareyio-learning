@@ -32,6 +32,9 @@
 
 - BEGIN ANSIBLE DEVELOPMENT
 
+
+
+
 -1: In your ansible-config-mgt GitHub repository, create a new branch that will be used for development of a new feature.
 
 ![image](https://user-images.githubusercontent.com/94152732/176514537-1a381aa3-569d-4b3d-8ca4-5e786c9f3f19.png)
@@ -62,8 +65,21 @@ Step 4: Set up an Ansible Inventory
 ![image](https://user-images.githubusercontent.com/94152732/176535085-eb355d81-47b8-4fdd-9fae-b462074e08f9.png)
 
 
-- Step 5: 
+- Step 5: Create a Common Playbook
 ![image](https://user-images.githubusercontent.com/94152732/176536508-aa23e75f-b91c-44b0-97a9-3bae6df4f50a.png)
+
+- Step 6: Update GIT with the latest code
+
+![image](https://user-images.githubusercontent.com/94152732/176540372-e2b70ca6-20e9-4a19-a7f1-c02d90d532de.png)
+![image](https://user-images.githubusercontent.com/94152732/176541570-6e792a34-1ddf-495c-ab1f-de56e3fb63b6.png)
+![image](https://user-images.githubusercontent.com/94152732/176543348-09e15967-936b-4ee3-bb27-50d4f9391497.png)
+![image](https://user-images.githubusercontent.com/94152732/176543561-00f72f5b-b425-4972-bfd5-3cd3b0dfb499.png)
+![image](https://user-images.githubusercontent.com/94152732/176543713-9eb2be4d-60c1-470a-b0c8-637b6a0ea53b.png)
+![image](https://user-images.githubusercontent.com/94152732/176544120-579894db-d135-42fc-8837-b25db314269a.png)
+![image](https://user-images.githubusercontent.com/94152732/176544590-34665a94-ca57-4c3f-9ccb-36be8dd57162.png)
+
+
+- Step 7 – Run first Ansible test
 
 
 
