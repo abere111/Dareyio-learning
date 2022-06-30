@@ -81,6 +81,12 @@ Step 4: Set up an Ansible Inventory
 
 - Step 7 – Run first Ansible test
 
+![image](https://user-images.githubusercontent.com/94152732/176674791-a30e8183-f7c7-455e-9bde-af51dfc2f674.png)
+![image](https://user-images.githubusercontent.com/94152732/176675316-4d9d6d19-9889-42bb-b8b4-09c2088da512.png)
+![image](https://user-images.githubusercontent.com/94152732/176675415-4a6cee13-548a-418f-a508-ac69c531b9eb.png)
+![image](https://user-images.githubusercontent.com/94152732/176675575-5c089538-b3eb-40e7-9487-2d8863ba5f5e.png)
+![image](https://user-images.githubusercontent.com/94152732/176675617-287914f1-47d5-49aa-8395-abaa50da819b.png)
+![image](https://user-images.githubusercontent.com/94152732/176675668-2a990c16-26b2-4e83-a530-73ca2ce4fc1d.png)
 
 
 
