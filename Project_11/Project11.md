@@ -88,5 +88,8 @@ Step 4: Set up an Ansible Inventory
 ![image](https://user-images.githubusercontent.com/94152732/176675617-287914f1-47d5-49aa-8395-abaa50da819b.png)
 ![image](https://user-images.githubusercontent.com/94152732/176675668-2a990c16-26b2-4e83-a530-73ca2ce4fc1d.png)
 
+ - Updated ansible playbook with some new Ansible task and go through the full
+
+![image](https://user-images.githubusercontent.com/94152732/176680580-c678ed8b-6f8a-48b5-ac0a-845980a265a3.png)
 
 
