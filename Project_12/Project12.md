@@ -18,3 +18,8 @@
 
 - 6: 
 ![image](https://user-images.githubusercontent.com/94152732/176974577-40092442-c443-4b85-a8ef-d8b34ab38f73.png)
+
+- 7: Test Set up in Artifact Directory
+![image](https://user-images.githubusercontent.com/94152732/176975604-9952b971-8379-4628-84b9-1fe274833d17.png)
+![image](https://user-images.githubusercontent.com/94152732/176976098-43fdbc56-0d4b-4b98-82a9-bf1a2bd199d0.png)
+
