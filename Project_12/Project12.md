@@ -23,3 +23,15 @@
 ![image](https://user-images.githubusercontent.com/94152732/176975604-9952b971-8379-4628-84b9-1fe274833d17.png)
 ![image](https://user-images.githubusercontent.com/94152732/176976098-43fdbc56-0d4b-4b98-82a9-bf1a2bd199d0.png)
 
+
+- Step 2: Step 2 – Refactor Ansible code by importing other playbooks into site.yml
+![image](https://user-images.githubusercontent.com/94152732/176976485-f7d82ba2-81fd-4c82-93e0-01603d301d2c.png)
+
+- 1 : 
+![image](https://user-images.githubusercontent.com/94152732/176976840-6a89168f-166a-420b-a10f-ae8219f1d843.png)
+
+-2: 
+
+
+
+
