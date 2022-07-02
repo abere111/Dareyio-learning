@@ -48,7 +48,24 @@
 ![image](https://user-images.githubusercontent.com/94152732/176980153-e2146401-0fb6-4bff-9236-d83ae6f1a3f6.png)
 ![image](https://user-images.githubusercontent.com/94152732/176980261-fef077ee-7df1-49fd-8cde-6c5e4c14676b.png)
 
+- Step 3 – Configure UAT Webservers with a role ‘Webserver’
 
+- 1: Launch 2 fresh EC2 instances
+![image](https://user-images.githubusercontent.com/94152732/176999814-fdde4072-8d08-415b-ae63-17771c5112f6.png)
+
+- 2: Roles Directory created
+![image](https://user-images.githubusercontent.com/94152732/177000271-e14a8aae-6d4d-4be1-9fe9-30cde9ff2ddf.png)
+
+-3:
+![image](https://user-images.githubusercontent.com/94152732/177000445-ad1a5f85-d3d0-48d3-93ea-f27500b2eef3.png)
+
+- 4: 
+![image](https://user-images.githubusercontent.com/94152732/177001144-6070d90c-e4de-4eae-b26d-f99537a68429.png)
+
+-5: 
+![image](https://user-images.githubusercontent.com/94152732/177001434-a87ea7df-86ba-4dc3-937f-58d507dfbdf0.png)
+
+- Step 4: Reference ‘Webserver’ role
 
 
 
