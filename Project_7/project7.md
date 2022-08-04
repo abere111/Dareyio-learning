@@ -1,4 +1,4 @@
-- Step 1
+- Step 1:
 
 - 1: Spin up an EC2 instance
 ![image](https://user-images.githubusercontent.com/94152732/172205536-76f28add-5c78-4494-89a4-f901b99b79b3.png)
